@@ -6,14 +6,15 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-w
 
 In the project directory, you can run:
 
+1 Primero instalar las dependencias:
+### `npm install`
+
+Correr la aplicacion:
 ### `npm start`
 ### `npm run dev`
 
+Correr los tests:
 ### `npm test`
-
-### `npm run build`
-
-### `npm run eject`
 
 ## Vitest with React Testing Library
 https://testing-library.com/docs/ecosystem-jest-dom/
