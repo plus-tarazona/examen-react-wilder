@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Lista de tarjetas",
+    "url": ""
+  },
+  {
+    "id": 2,
+    "title": "Transferencias y pagos",
+    "url": "",
+    "options": [
+      {
+        "id": 5,
+        "title": "Entre tarjetas",
+        "url": ""
+      },
+      {
+        "id": 6,
+        "title": "Cuenta bancaria",
+        "url": "",
+        "options": [
+          {
+            "id": 6,
+            "title": "Cuenta bancaria hija",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Tarjetas de crédito",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Atención al cliente",
+    "url": "",
+    "options": [
+      {
+        "id": 8,
+        "title": "Bloqueos",
+        "url": ""
+      },
+      {
+        "id": 9,
+        "title": "Cambios de contraseña",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Empresas",
+    "url": ""
+  }
+]
